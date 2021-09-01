@@ -25,7 +25,9 @@
 
 [Make3D](http://make3d.cs.cornell.edu/data.html)
 
-## Mono
+## Mono  
+
+[DDAD - Dense Depth for Autonomous Driving](https://github.com/TRI-ML/DDAD)  
 
 [rabbitai](https://rabbitai.de/benchmark)
 
